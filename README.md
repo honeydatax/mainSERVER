@@ -1,2 +1,2 @@
-# elarnig
+# elarning
 shell pipe net
