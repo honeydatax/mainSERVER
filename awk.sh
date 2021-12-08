@@ -1,2 +1,2 @@
-curl http://localhost:8080/$1.awk > /tmp/aux
+curl https://raw.githubusercontent.com/honeydatax/elearning/main/$1.awk > /tmp/aux
 awk -f /tmp/aux < $2
