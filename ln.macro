@@ -1,0 +1,2 @@
+printf "\ec\n macro to line number\n"
+seq 0 10 | nl
