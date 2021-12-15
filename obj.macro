@@ -1,0 +1,4 @@
+printf "\ec\e[44;36m\a\n\n"
+tcc c.c -o /tmp/tmp
+ls -l /tmp/tmp
+objdump -d /tmp/tmp
