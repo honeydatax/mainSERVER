@@ -1,0 +1,4 @@
+printf "\ec\e[44;36m\a\n\n"
+bcc c.c -Md -S -o /tmp/tmp 
+cat /tmp/tmp | grep -v "!" 
+
