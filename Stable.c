@@ -7,7 +7,7 @@ int main(){
 	char a[180];
 	char b[180];
 	FILE * f;
-	printf("start stable\n");
+	printf("\ec\e[44;36m\a\nstart stable\n");
 	sprintf(b,"timeout 15s curl http:/localhost:8080/control.txt > out.txt");
 	while(1){
 		f=fopen("out.txt","w");
