@@ -24,7 +24,7 @@ int main(){
 			system("./restart.sh");
 		}
 		
-		sleep(5);
+		sleep(50);
 	}
 	return 0;
 }
