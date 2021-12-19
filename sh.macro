@@ -1,3 +1,0 @@
-printf "\ec\e[44;36m\a\nmacro users\n\n"
-cat ln.macro | sh
-
