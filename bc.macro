@@ -1,5 +1,0 @@
-printf "\ec\nmacro bc\n"
-a="1234567890 + 9876543210"
-printf "%s\nquit\n" "$a" | bc
-
-
