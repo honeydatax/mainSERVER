@@ -1,2 +1,0 @@
-printf "\ec\nmacro sort\n"
-ls | wc
