@@ -1,2 +1,0 @@
-printf "\ec\e[44;36m\a\nmacro expr\n\n"
-expr 10 + 10
