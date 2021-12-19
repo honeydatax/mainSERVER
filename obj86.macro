@@ -1,4 +1,0 @@
-printf "\ec\e[44;36m\a\n\n"
-bcc c.c -Ms -o /tmp/tmp 
-objdump86 -d /tmp/tmp 
-
