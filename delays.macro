@@ -1,4 +1,0 @@
-printf "\ec\n macro delay wait..." 
-sleep 10
-printf "\n hello \n" 
-
