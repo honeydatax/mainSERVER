@@ -1,7 +1,0 @@
-printf "\ec\a\nmacro close.!\n"
-ps -a | grep "x-terminal" > /tmp/aux
-while read a 
-do
-kill $a
-done < /tmp/aux
-
