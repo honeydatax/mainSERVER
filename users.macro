@@ -1,5 +1,0 @@
-printf "\ec\e[44;36m\a\nmacro users\n\n"
-for n in /home/*
-do
- echo "user " "$n" | sed s/home//
-done
