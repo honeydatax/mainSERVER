@@ -1,2 +1,0 @@
-printf "\ec\nmacro list files\n"
-ls -l
