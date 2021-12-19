@@ -1,4 +1,4 @@
-printf "\ec\a\nmacro close.!\n"
+printf "\ec\e[44;36m\a\nmacro close.!\n"
 ps | grep "python" > /tmp/aux
 while read a 
 do
