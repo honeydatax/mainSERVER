@@ -1,4 +1,0 @@
-printf "\ec\nmacro shutdown\n"
-shutdown now
-
-
