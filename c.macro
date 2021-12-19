@@ -1,5 +1,0 @@
-printf "\ec\nmacro c compile\n"
-curl http://localhost:8080/c.c > /tmp/c.c
-gcc /tmp/c.c -o a.out
-./a.out 
-
